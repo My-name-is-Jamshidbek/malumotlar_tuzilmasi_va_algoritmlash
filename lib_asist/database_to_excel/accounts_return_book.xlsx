@@ -1,0 +1,6 @@
+index,id,created,book_name,date,key,student_id,author,created_at,respite,staff
+0,1,2022-06-07 10:29:44.220772,Taqsimlangan tizimlar,2022-06-07 09:49:04.353557,123,1,"T.N.Nishonboyev, N.B.Usmanova",2022-06-07 10:29:44.220889,2022-06-22 09:49:04.352920,1
+1,2,2022-06-07 10:29:46.606872,Taqsimlangan tizimlar,2022-06-07 09:53:06.572400,123,1,"T.N.Nishonboyev, N.B.Usmanova",2022-06-07 10:29:46.606992,2022-06-22 09:53:06.571463,1
+2,3,2022-06-07 17:07:01.704698,Axborot nazariyasi va kodlash,2022-06-07 17:05:32.798652,150,22,"S.K.Ganiyev, Sh.R.Gʻulomov",2022-06-07 17:07:01.704844,2022-06-17 17:05:32.798210,1
+3,4,2022-06-07 17:43:25.540898,Elektr aloqa asoslari,2022-06-07 10:44:14.240400,124,1,"A.A.Tulyaganov, X.X.Shoyusupova, U.Sh.Sabirova",2022-06-07 17:43:25.541026,2022-06-12 10:44:14.239967,1
+4,5,2022-06-08 13:37:08.678434,Sportda axborot- kommunikatsiya texnologiyalari,2022-06-08 13:31:55.435370,500,22,M.U.Adasheva,2022-06-08 13:37:08.678539,2022-06-18 13:31:55.434912,c

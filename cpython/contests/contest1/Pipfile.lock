@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "b218b61d2bedb1c4b3285a5b7dad230274566cbee88cc4a7652cf7d63ec65fbf"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pywifi": {
+            "hashes": [
+                "sha256:6da15de5d573635a461a95919920788b6f61748e1bd93a5e3504f456cf2e8bcc",
+                "sha256:d1b79d9ff054eef1aca4ab97f2641650d001d6740bfa7666a7d9506bcfb8459b"
+            ],
+            "index": "pypi",
+            "version": "==1.1.12"
+        }
+    },
+    "develop": {}
+}
