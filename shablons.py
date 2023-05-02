@@ -163,10 +163,3 @@ def fact(n,m=1,s=1):
 
 
 
-b = 8 #gb
-b = b*1024 #mb
-b = b*1024 #kb
-b = b*1024 #b
-b = b*9 #bit
-b = b*2
-print(b)

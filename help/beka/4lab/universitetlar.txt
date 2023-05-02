@@ -1,0 +1,10 @@
+Toshkent davlat yuridik universiteti|Oybekov Oybek Abdusalomovich|10|1000|200|100
+Toshkent shahridagi Ixtisoslashtirilgan chet tillar universiteti|Kamilov Bakhtiyor Otabek ogli|8|600|150|75
+Toshkent davlat iqtisodiyot universiteti|Abdullayev Mukhsin Abdullaevich|15|1500|300|200
+Toshkent davlat sharqshunoslik instituti|Mukhitdinov Azizbek Eshpulatovich|6|400|100|50
+Toshkent davlat texnika universiteti|Usmonov Azimjon Abduvalievich|20|3000|500|300
+Toshkent davlat to'qimachilik instituti|Abdurakhmanov Ulugbek Bobojon ogli|5|300|75|30
+Toshkent pedagogika universiteti|Tursunov Rustamjon Abdurasulovich|12|1200|250|150
+O'zbekiston davlat jismoniy tarbiya instituti|Jumaniyazov Jumaniyaz Jumaniyazovich|7|500|100|50
+Samarqand davlat universiteti|Abdullaev Akramjon Javlonbekovich|14|800|200|100
+Andijon davlat universiteti|Nishonov Shavkatjon Azamatovich|10|700|150|75
