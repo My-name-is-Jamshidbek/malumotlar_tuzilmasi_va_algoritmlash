@@ -4,28 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a2c1eca-4f40-422b-80c4-da01cf0daedd" name="Changes" comment="Revert &quot;a&quot;&#10;&#10;This reverts commit 102e26a1">
-      <change afterPath="$PROJECT_DIR$/algoritmlarni loyihalash/lab1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bsuit/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bsuit/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bsuit/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bsuit/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bsuit/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bsuit/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/help/alisher/alg loyihalash/1lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/help/beka.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/help/beka/4lab/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/help/beka/4lab/universitetlar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview/array/maksimal_olim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nfs/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robocontest/teamroundbeta/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robocontest/teamroundbeta/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robocontest/teamroundbeta/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robocontest/teamroundbeta/test.py" afterDir="false" />
+    <list default="true" id="2a2c1eca-4f40-422b-80c4-da01cf0daedd" name="Changes" comment="new help">
+      <change afterPath="$PROJECT_DIR$/help/anton/6_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/help/anton/6_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/help/anton/8_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/help/anton/fayl.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shablons.py" beforeDir="false" afterPath="$PROJECT_DIR$/shablons.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +31,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2GJndsitm99gpKgdz1kwJuH97lG" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,15 +45,25 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.1_22.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/xjama/Projects/malumotlar_tuzilmasi_va_algoritmlash&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/PycharmProjects/malumotlar_tuzilmasi_va_algoritmlash&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.maksimal_olim">
+  <component name="RunManager" selected="Python.1_22">
     <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="malumotlar_tuzilmasi_va_algoritmlash" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -77,7 +74,31 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bsuit/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1_22" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="malumotlar_tuzilmasi_va_algoritmlash" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/help/xayrulla_front" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/help/xayrulla_front/1_22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,6 +109,7 @@
     </configuration>
     <configuration name="2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="malumotlar_tuzilmasi_va_algoritmlash" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -98,6 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bsuit/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -109,6 +132,7 @@
     </configuration>
     <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="malumotlar_tuzilmasi_va_algoritmlash" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -119,6 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/robocontest/teamroundbeta/3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -130,6 +155,7 @@
     </configuration>
     <configuration name="8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="malumotlar_tuzilmasi_va_algoritmlash" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -140,6 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/help/beka/4lab/8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -151,6 +178,7 @@
     </configuration>
     <configuration name="maksimal_olim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="malumotlar_tuzilmasi_va_algoritmlash" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -161,6 +189,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview/array/maksimal_olim.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -180,6 +209,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -188,6 +224,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666115645010</updated>
+      <workItem from="1705006820882" duration="5189000" />
+      <workItem from="1705034491410" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1667018025824</created>
@@ -224,8 +262,19 @@
       <option name="project" value="LOCAL" />
       <updated>1678253198289</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new help">
+      <option name="closed" value="true" />
+      <created>1705015831298</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705015831301</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -243,6 +292,8 @@
     <MESSAGE value="a" />
     <MESSAGE value="yangi darslik qo'shildi" />
     <MESSAGE value="Revert &quot;a&quot;&#10;&#10;This reverts commit 102e26a1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;a&quot;&#10;&#10;This reverts commit 102e26a1" />
+    <MESSAGE value="dasturlash uslublari va paradigmalar 5, 6, 10, 11, 12 labs added" />
+    <MESSAGE value="new help" />
+    <option name="LAST_COMMIT_MESSAGE" value="new help" />
   </component>
 </project>
