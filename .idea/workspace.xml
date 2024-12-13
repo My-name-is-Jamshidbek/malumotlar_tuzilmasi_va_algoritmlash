@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a2c1eca-4f40-422b-80c4-da01cf0daedd" name="Changes" comment="add new video clipper">
-      <change afterPath="$PROJECT_DIR$/help/Faxridiin/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_daily_question/l2024_12_3_1455.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_daily_question/l2024_12_3_2109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/now.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/malumotlar_tuzilmasi_va_algoritmlash.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/malumotlar_tuzilmasi_va_algoritmlash.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,30 +43,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.1_22.executor&quot;: &quot;Run&quot;,
-    &quot;Python.autotest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bug.executor&quot;: &quot;Run&quot;,
-    &quot;Python.defect.executor&quot;: &quot;Run&quot;,
-    &quot;Python.error.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/PycharmProjects/connectcamera&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.1_22.executor": "Run",
+    "Python.autotest.executor": "Run",
+    "Python.bug.executor": "Run",
+    "Python.defect.executor": "Run",
+    "Python.error.executor": "Run",
+    "Python.l2024_12_3_2109.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main1.executor": "Run",
+    "Python.now.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/Users/bekmurod/PycharmProjects/malumotlar_tuzilmasi_va_algoritmlash",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="malumotlar_tuzilmasi_va_algoritmlash" />
@@ -214,7 +226,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -242,6 +255,11 @@
       <workItem from="1713766230933" duration="240000" />
       <workItem from="1716189073050" duration="559000" />
       <workItem from="1716190521563" duration="917000" />
+      <workItem from="1733218011460" duration="8309000" />
+      <workItem from="1733281357532" duration="11000" />
+      <workItem from="1733480636576" duration="25000" />
+      <workItem from="1733848935420" duration="1261000" />
+      <workItem from="1734080973431" duration="368000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1667018025824</created>
@@ -339,11 +357,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="add new video clipper" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/malumotlar_tuzilmasi_va_algoritmlash$bug.coverage" NAME="bug Coverage Results" MODIFIED="1711519513482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
-    <SUITE FILE_PATH="coverage/malumotlar_tuzilmasi_va_algoritmlash$main1.coverage" NAME="main1 Coverage Results" MODIFIED="1713588124279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vide_cat" />
-    <SUITE FILE_PATH="coverage/malumotlar_tuzilmasi_va_algoritmlash$error.coverage" NAME="error Coverage Results" MODIFIED="1711516691477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
+    <SUITE FILE_PATH="coverage/malumotlar_tuzilmasi_va_algoritmlash$1_22.coverage" NAME="1_22 Coverage Results" MODIFIED="1734081057942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/help/xayrulla_front" />
     <SUITE FILE_PATH="coverage/malumotlar_tuzilmasi_va_algoritmlash$main.coverage" NAME="main Coverage Results" MODIFIED="1716190933006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/help/Faxridiin" />
-    <SUITE FILE_PATH="coverage/malumotlar_tuzilmasi_va_algoritmlash$autotest.coverage" NAME="autotest Coverage Results" MODIFIED="1711519226702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
+    <SUITE FILE_PATH="coverage/malumotlar_tuzilmasi_va_algoritmlash$l2024_12_3_2109.coverage" NAME="l2024_12_3_2109 Coverage Results" MODIFIED="1733233386709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_daily_question" />
+    <SUITE FILE_PATH="coverage/malumotlar_tuzilmasi_va_algoritmlash$now.coverage" NAME="now Coverage Results" MODIFIED="1734081164303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/malumotlar_tuzilmasi_va_algoritmlash$defect.coverage" NAME="defect Coverage Results" MODIFIED="1711517287203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
+    <SUITE FILE_PATH="coverage/malumotlar_tuzilmasi_va_algoritmlash$error.coverage" NAME="error Coverage Results" MODIFIED="1711516691477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
+    <SUITE FILE_PATH="coverage/malumotlar_tuzilmasi_va_algoritmlash$autotest.coverage" NAME="autotest Coverage Results" MODIFIED="1711519226702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
+    <SUITE FILE_PATH="coverage/malumotlar_tuzilmasi_va_algoritmlash$main1.coverage" NAME="main1 Coverage Results" MODIFIED="1713588124279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vide_cat" />
+    <SUITE FILE_PATH="coverage/malumotlar_tuzilmasi_va_algoritmlash$bug.coverage" NAME="bug Coverage Results" MODIFIED="1711519513482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
   </component>
 </project>
